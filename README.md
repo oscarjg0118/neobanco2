@@ -1,6 +1,7 @@
-Neobanco2 es una aplicación backend desarrollada con Spring Boot que implementa un sistema de autenticación y gestión de usuarios para un banco digital. Utiliza MySQL como base de datos y JWT para autenticación.
+Neobanco2 es una aplicación backend desarrollada con Spring Boot que implementa un sistema de autenticación y gestión de usuarios en etapa inicial para un banco digital. Utiliza MySQL como base de datos y JWT para autenticación.
 
 ## Arquitectura
+
 
 - **Monolítica**: El proyecto sigue una arquitectura monolítica con capas claras.
 - **Capas**:
